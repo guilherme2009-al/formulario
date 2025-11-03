@@ -6,6 +6,11 @@ body {
     font-size: 1.6rem;
     background: oklch(20.8% 0.042 265.755);
     color: #FFF;
+    text-align: center;
+}
+
+p {
+font-family: "Arial", "Verdana", sans-serif;
 }
   
 #page {
